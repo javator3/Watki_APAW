@@ -71,11 +71,11 @@ public class Main {
 //        });
 //        thread.start();
 
-        DwaWatki dwaWatki = new DwaWatki();
-        DwaWatki dwaWatki1 = new DwaWatki();
-
-        dwaWatki.start();
-        dwaWatki1.start();
+//        DwaWatki dwaWatki = new DwaWatki();
+//        DwaWatki dwaWatki1 = new DwaWatki();
+//
+//        dwaWatki.start();
+//        dwaWatki1.start();
 
 
         }
